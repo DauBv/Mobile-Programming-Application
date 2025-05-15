@@ -2,7 +2,7 @@
 
 Lập trình mobile app (ứng dụng di động) được chia thành 3 loại chính. <br>
 
-#### 1. [Native App (Ứng dụng gốc)](https://github.com/DauBv/0bjective-c-iOS/tree/main/Tutorial)
+#### 1. [Native App (Ứng dụng gốc)](https://github.com/DauBv/Mobile-Programming-Application/tree/main/Native-App)
 
 - **Đặc điểm:**
    * Viết riêng biệt cho từng hệ điều hành.
@@ -20,7 +20,7 @@ Lập trình mobile app (ứng dụng di động) được chia thành 3 loại 
    * Tốn thời gian và chi phí vì phải phát triển riêng cho từng nền tảng.
    * Bảo trì phức tạp.
 
-#### 2. [Cross-Platform App (Ứng dụng đa nền tảng)](https://github.com/DauBv/0bjective-c-iOS/tree/main/Tutorial)
+#### 2. [Cross-Platform App (Ứng dụng đa nền tảng)](https://github.com/DauBv/Mobile-Programming-Application/tree/main/Cross-platform-App)
 
 - **Đặc điểm:**
    * Viết một lần, chạy trên nhiều nền tảng (Android & iOS)
@@ -36,7 +36,7 @@ Lập trình mobile app (ứng dụng di động) được chia thành 3 loại 
 - **Nhược điểm**
    * Hiệu suất có thể không bằng native
    * Một số tính năng phần cứng cần viết code native riêng
-#### 3. [Hybrid App (Ứng dụng lai)](https://github.com/DauBv/0bjective-c-iOS/tree/main/Tutorial)
+#### 3. [Hybrid App (Ứng dụng lai)](https://github.com/DauBv/Mobile-Programming-Application/tree/main/Hybrid-App)
 
 - **Đặc điểm:**
    * Sử dụng công nghệ web (HTML, CSS, JavaScript) để xây dựng giao diện
